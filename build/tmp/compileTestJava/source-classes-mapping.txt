@@ -1,2 +1,0 @@
-com/jaygoal/utils/UtilsTest.java
- com.jaygoal.utils.UtilsTest

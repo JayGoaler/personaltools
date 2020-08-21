@@ -1,4 +1,0 @@
-server:
-  port: 8080
-word:
-  targetPath: /Users/jaygoaler/projects/tempFolder/jlpt
